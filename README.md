@@ -47,7 +47,7 @@ pip install watchdog logging
   dest_dir_word = r"Change this path to your desired Word folder"
   ```
 
-#### 2) Run the script:
+#### 3) Run the script:
    - Execute the Python script
    - The script will start monitoring your Downloads folder
    - As new files are added or modified, the script will automatically move them to the appropriate   destination folder based on their file type.
